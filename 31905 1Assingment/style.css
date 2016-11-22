@@ -1,0 +1,18 @@
+
+.sana
+{
+	background-color: gray;
+}
+div
+{
+	width: 500px;
+	margin: auto;
+}
+
+#n
+{
+	margin-top: 10px;
+    padding-left: 200px;
+	height: 40px;
+	border: 2px solid white; 
+}
